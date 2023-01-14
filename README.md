@@ -23,5 +23,6 @@
 <br>
  - Instagram: 
 <a href="https://instagram.com/https://www.instagram.com/araujokaio93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/araujokaio93/" height="15" width="15" /></a>
-<a href=
+<br>
+- Email : araujogzk17@gmail.com
 </p>
