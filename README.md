@@ -8,7 +8,7 @@
 <br>
 <p align="justify">- C++ : <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img align="center"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/> </a>
 <br>
-<p align="justify">- Java : <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25/>
+<p align="justify">- Java : <a href="https://dev.java/" target="_blank" rel="noreferrer"> <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25/>
  </a> </p>
 
 ##
