@@ -12,7 +12,7 @@
  </a> </p>
 
 ##
-<br>
+<p>
 <h3 align="left">GitHub Stats:</h3>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=araujokaio93&show_icons=true&theme=dracula&title_color=fffafa&text_color=faf4f4&locale=br&layout=compact" alt="araujokaio93" /></p>
