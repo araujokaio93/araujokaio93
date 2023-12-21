@@ -3,11 +3,17 @@
   <img src="https://komarev.com/ghpvc/?username=araujokaio93&label=Visitas%20ao%20Perfil/Profile%20Views&color=b31919&style=flat-square" alt="araujokaio93"/>
 </p>
 <p align="justify">Eu sou Kaio Araújo, atualmente ingresso do Curso de Bacharelado em Engenharia da Computação pelo IFMG-Campus Bambuí-MG, aficionado pelo mundo da programação e tecnologia em geral.</p>
-<p align="justify">No momento, estou estudando as linguagens C++ e Java, com foco em aprimorar e desenvolver meus conhecimentos no Backend.</p>
+<p align="justify">No momento, estou estudando as linguagens C++ , Java e Python com foco em aprimorar e desenvolver meus conhecimentos.</p>
 
 ##
 <h3 align="left">Linguagens e Ferramentas de Trabalho/Languages and Tools:</h3>
 <br>
+<p align="justify">
+  - Python : 
+  <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="cplusplus" width="25" height="25"/>
+  </a>
+</p>
 <p align="justify">
   - C++ : 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
