@@ -15,6 +15,12 @@
   </a>
 </p>
 <p align="justify">
+  - JavaScript : 
+  <a href=https://www.w3schools.com/js/" taget="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="cplusplus" width="25" height="25"/>
+  </a>
+</p>
+<p align="justify">
   - C++ : 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/>
