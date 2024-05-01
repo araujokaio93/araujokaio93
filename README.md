@@ -16,8 +16,9 @@
 </p>
 <p align="justify">
   - JavaScript : 
-  <a href="https://www.w3schools.com/js/deafult.asp" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="cplusplus" width="25" height="25"/>
+  <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
+    <img align="center" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="cplusplus" width="25" height="25"/>
   </a>
 </p>
 <p align="justify">
